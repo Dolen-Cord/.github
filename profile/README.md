@@ -24,9 +24,10 @@
 
 ## 🔗 Join Us
 [![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h8Qp5xKvaE)  
-[![GitHub Org](https://img.shields.io/badge/DolenCord%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DolenCord)
+[![GitHub Org](https://img.shields.io/badge/DolenCord%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dolen-Cord)
 
 ---
 
 <p align="center">💡 Built with passion by the DolenCord community 💡</p>
+
 
